@@ -12,7 +12,7 @@ yarn config get registry
 
 ##### 设置yarn源为淘宝镜像
 ```
-
+yarn config set registry 'https://registry.npm.taobao.org'
 ```
 
 ##### 设置npm源为淘宝镜像
